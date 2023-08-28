@@ -1,0 +1,13 @@
+Um livro mágico foi roubado do Valdemar's Café, então, Valdemar chama voçê para resolver o problema
+fases:5
+desing:pixel art
+mecanica:espada e bola de fogo
+primeira tela  => nome - gamertag
+movimenta para direita,esquerda,baixo e pulo
+fases:waves de inimigos e boss
+vidas:5, reinicia a cada fase 
+quando os inimigos acabam,reinicia a fase.
+fases:cidade,parque,HQ,Final
+valdermar- unico NPC
+Salvar o progresso que é quando passa as fases
+contador de vida
